@@ -77,6 +77,7 @@ void task1()
 void task2()
 {
     int b1, k1, b2, k2;
+    Console.WriteLine($"Введите 4 переменные (b1, k1, b2 и k2) подряд:")
     Console.WriteLine(  $"b1: {b1 = new_value()} " +
                         $"\nk1: {k1 = new_value()} " +
                         $"\nb2: {b2 = new_value()} " +
